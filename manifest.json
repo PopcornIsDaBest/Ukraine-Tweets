@@ -1,17 +1,22 @@
 {
-"manifest_version": 2,
-"name": "",
-"description": "",
-"version": "",
-"icons": "" {
+"manifest_version": 3,
+"name": "Ukraine-Russia Tweet Analysis Extension",
+"description": "Filters through tweets relating to the Ukraine-Russian conflict and flags fake news / propaganda",
+"version": "1.0",
+
+"icons":{
     "16": "",
     "48": "",
     "128": ""
-}
+
+},
+"author": "Jessica Nguyen, Keziah Boompog, Congminh Tran, Matthew Tran",
 
 "page_action": {
-    "default_icon" {
+    "default_icon": {
     "16": "",
     "48": "",
+    }    
     "128": "",
+}
 }
